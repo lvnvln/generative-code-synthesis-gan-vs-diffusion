@@ -1,4 +1,4 @@
-# Comparative Analysis of GAN and Diffusion Models for Code Generation
+# Сравнительный анализ генеративных моделей GAN и диффузионных моделей для автоматической генерации исходного кода
 
 ## Описание проекта
 
